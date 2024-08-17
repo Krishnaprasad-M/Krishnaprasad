@@ -21,3 +21,5 @@ print("The Sum of  "f"{num1}" " and "f"{num2}"" is ", num1 + num2)
 print("The Difference of  "f"{num1}" " and "f"{num2}"" is ", num1 - num2)
 print("The Multiple of  "f"{num1}" " and "f"{num2}"" is ", num1 * num2)
 print("The Quotient of  "f"{num1}" " and "f"{num2}"" is ", num1 / num2)
+
+print(f"The Quotient of  {num1} and {num2} is { (num1 / num2)}")
