@@ -42,3 +42,5 @@ else: print(f"The first number {a} is equal to second number {b}")
 n = int(input("Enter your value: "))
 print(f"The Square of {n} is {pow(n,2)} and the cube of {n} is {pow(n,3)}")
 
+
+
